@@ -66,7 +66,7 @@ Created a scalable, standardized process for generating and delivering client re
 Improved operational efficiency by allowing staff to focus on customer service rather than repetitive document management.
 
 # Workflow
-![zap](sallyzap (1).jpg)
+![zap](sallyzap(1).jpg)
 
 # Skills Demonstrated
 - Workflow Automation
@@ -81,10 +81,10 @@ Improved operational efficiency by allowing staff to focus on customer service r
 - Workflow Design
 - Business Operations Automation
 
-![zap](sall (1).jpg)
+![zap](sall(1).jpg)
 
-![zap](sallyemailpdf (1).jpg)
+![zap](sallyemailpdf(1).jpg)
 
-![zap](sallypdfview (1).jpg)
+![zap](sallypdfview(1).jpg)
 
-![zap](sallypdfview2 (1).jpg)
+![zap](sallypdfview2(1).jpg)
